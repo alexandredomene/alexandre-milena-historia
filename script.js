@@ -186,6 +186,7 @@ document.addEventListener('DOMContentLoaded', function() {
             'IMG_20250320_114036941_HDR.jpg', 'IMG_20250321_122814106.jpg',
             'IMG_20250420_110759516_HDR.jpg', 'IMG_20250420_110908521_HDR.jpg',
             'IMG_20250524_195201919_HDR.jpg', 'IMG_20250524_195237883_HDR.jpg'
+            'IMG_20240707_164723078_HDR.jpg', 'IMG_20240705_155605549_HDR.jpg'
         ];
         
         // Remover duplicatas
