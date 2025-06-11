@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
             ...fotosRecentes,
             
             // Adicionar todas as fotos extraídas dos arquivos ZIP
-            'IMG_12117793443761.jpeg', 'DSC04989.JPG',
+            'IMG_12117793443761.jpeg', 'DSC04989.JPG', 
             'IMG_20141225_240246459.jpg', 'IMG_20141224_212132966.jpg',
             'IMG_20150829_194714121.jpg', 'IMG_20141224_200053712_HDR.jpg',
             'IMG_20141224_212457271.jpg', 'IMG_20150809_153839187_HDR.jpg',
